@@ -110,7 +110,7 @@ video::-webkit-media-controls {
 .logo {
   width: 88px;
   height: 22px;
-  background-image: url('../public/logo.png');
+  background-image: url('logo.png');
   background-size: 88px;
   margin: 5px;
 }
